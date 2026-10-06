@@ -1,0 +1,6 @@
+{
+  "name": "HydroPace - Daily Hydration Tracker & Goal Planner",
+  "description": "Track daily water and beverage intake, calculate personalized hydration targets based on body metrics and climate, and maintain healthy fluid balance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
